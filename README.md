@@ -86,3 +86,6 @@ La IA funcionó como un tutor en tiempo real para:
 ## Resultados Obtenidos
 - Reducción de tiempo de desarrollo: Soluciones en minutos en lugar de horas  
 - Documentación implícita: Explicaciones claras integradas en cada solución  
+#
+### Demo
+![App](./src/assets/InterurbanWeather.gif)
